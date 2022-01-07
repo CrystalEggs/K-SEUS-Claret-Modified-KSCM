@@ -26,7 +26,7 @@ Do not modify this code until you have read the LICENSE.txt contained in the roo
 #define GI_ARTIFACT_REDUCTION // Reduces artifacts on back edges of blocks at the cost of performance.
 #define GI_RENDER_RESOLUTION 0 // Render resolution of GI. 0 = High. 1 = Low. Set to 1 for faster but blurrier GI. [0 1]
 #define GI_RADIUS 0.75 // How far indirect light can spread. Can help to reduce artifacts with low GI samples. [0.5 0.75 1.0]
-#define KSEUSRE_EDIT_VERSION 0.4 // K SEUS RE-EDIT Version.
+#define KSEUSRE_EDIT_VERSION 0.4a // KSCM Version.
 #define AUTHOR 245922575 // Author's QQ.
 
 /////////INTERNAL VARIABLES////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
